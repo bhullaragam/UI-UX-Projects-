@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    background-color: #1F2937;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    width: 354px;
+    height: 80px;
+    margin-left: 52px;
+    margin-top: 115px; 
+    margin-bottom: 10px;
+    line-height: 40px;
+}
+
+#message-el {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #D5D4D8;
+    width: 372px;
+    height: 28px;
+    margin-left: 52px;
+    line-height: 28px;
+}
+
+button {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+    background: #10B981;
+    width: 191px;
+    height: 42px;
+    margin-left: 52px;
+    border: none;
+    border-radius: 6px;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+
+}
+
+hr {
+    margin-left: 52px;
+    margin-right: 52px;
+    margin-top: 30px;
+    border: 1px solid #2F3E53;
+}
+
+#pass-el-one {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    line-height:32px;
+    color: #55F991;
+    background: #273549;
+    width: 180px;
+    height: 32px;
+    margin-left: 52px;
+    border: none;
+    border-radius: 6px;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    
+}
+
+#pass-el-two {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    line-height:32px;
+    color: #55F991;
+    background: #273549;
+    width: 180px;
+    height: 32px;
+    margin-left: 22px;
+    border: none;
+    border-radius: 6px;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    
+}
