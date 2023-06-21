@@ -1,0 +1,40 @@
+body {
+    margin: 20px;
+    text-align: center; 
+}
+
+.container {
+    width: 480px;
+    display: flex;
+    justify-content: space-around;
+    background: #0C4A6E;
+    border: 8px solid #374151;
+    border-radius: 3px;
+}
+
+.home, .guest{
+    color: #F9FAFB;
+    font-family: 'Times New Roman', Times, serif;
+}
+.score1, .score2 {
+    background: #0a0001;
+    color: #F94F6D;
+    font-family: serif;
+    font-size: 90px;
+     width: 120px;
+     margin: 20px;
+     border-radius: 5px;
+}
+button {
+    background: none;
+    color: #F9FAFB;
+    font-size: 20px;
+    font-family: serif;
+    border: 1px solid #D1D5DB;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.reset{
+    margin-top: 230px; 
+}
